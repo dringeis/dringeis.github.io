@@ -80,12 +80,12 @@ analytics:
 author:
   name             : "Damien Ringeisen"
   avatar           : "DamienRingeisen.jpg"
-  bio              : "PhD students at the Alfred Wegener Institute, Helmholtz Center for Polar and Marine research"
+  bio              : "PhD student"
   location         : "Bremerhaven"
-  employer         :
-  googlescholar    : "hhttps://scholar.google.de/citations?user=QjS3jfYAAAAJ&hl=en"
+  employer         : "Alfred Wegener Institute, Helmholtz Center for Polar and Marine research"
+  googlescholar    : "https://scholar.google.de/citations?user=QjS3jfYAAAAJ&hl=en"
   email            : "damien.ringeisen@gmail.com"
-  uri              :
+  uri              : "https://www.awi.de/nc/en/about-us/organisation/staff/damien-ringeisen.html"
   bitbucket        :
   codepen          :
   dribbble         :
