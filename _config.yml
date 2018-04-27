@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @sea_ice_bear
+  username               : &twitter "@sea_ice_bear"
 facebook:
   username               :
   app_id                 :
