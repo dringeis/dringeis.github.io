@@ -19,8 +19,7 @@ I'm part of the International Research Training Group **ArcTrain**, a collaborat
 ### #SciComm
 
 I'm interested in sharing knowledge to the public about climate change and the impact of human activities on the polar region.
-I'm on twitter : [@sea_ice_bear](https://twitter.com/sea_ice_bear)
-And I am one of the manager and occasionnaly writer of [the ArcTrain blog](https://arctrain.de/) and the twitter account [@IRTG_ArcTrain](https://twitter.com/IRTG_ArcTrain)
+I'm on twitter : [@sea_ice_bear](https://twitter.com/sea_ice_bear), and I am one of the manager and occasionnaly writer of [the ArcTrain blog](https://arctrain.de/) and the ArcTrain twitter account [@IRTG_ArcTrain](https://twitter.com/IRTG_ArcTrain)
 
 ***
 
