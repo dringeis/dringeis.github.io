@@ -18,8 +18,7 @@ I'm part of the International Research Training Group **ArcTrain**, a collaborat
 
 ### #SciComm
 
-I'm interested in sharing knowledge to the public about climate change and the impact
-
+I'm interested in sharing knowledge to the public about climate change and the impact of human activities on the polar region.
 I'm on twitter : [@sea_ice_bear](https://twitter.com/sea_ice_bear)
 And I am one of the manager and occasionnaly writer of [the ArcTrain blog](https://arctrain.de/) and the twitter account [@IRTG_ArcTrain](https://twitter.com/IRTG_ArcTrain)
 
@@ -28,11 +27,3 @@ And I am one of the manager and occasionnaly writer of [the ArcTrain blog](https
 ### Personal life
 
 My personnal interests are going from international politics, scoutism, science fiction books and movies, ecology and environmental protection, and photography.
-
-[My Flickr](https://www.flickr.com/people/anneau2fer/)
-
-<style type="text/css"> 
-.flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 0px solid #666666 !important; padding:1px; margin:2px;}
-#flickr_badge_wrapper {width:800px;text-align:center}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="https://www.flickr.com/badge_code_v2.gne?count=8&display=random&size=s&layout=x&source=user&user=86383500@N07"></script></div>
