@@ -12,7 +12,7 @@ Born in France, I studied in Switzerland, and I'm now working on my PhD in North
 
 I'm working on high resolution sea ice modeling for climate simulations. As we increased the resolution of the climate models, we now have the power to resolve more features in the sea ice cover, like leads and big floes. The question is now to know if what we are modeling is correct compared to the observations.
 
-I'm part of the International Research Training Group **ArcTrain**, a collaboration between several institutes in Germany and Canada. More information are available on [our project website](https://arctrain.de/)
+I am financed and member of the International Research Training Group **ArcTrain**, a collaboration between several institutes in Germany and Canada. More information are available on [our project website](https://arctrain.de/)
 
 ***
 
