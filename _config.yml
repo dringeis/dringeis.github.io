@@ -247,7 +247,7 @@ defaults:
       share: true
   # _fieldwork
   - scope:
-      path:""
+      path: ""
       type: post
     values:
       layout: single
