@@ -2,7 +2,7 @@
 title: "ArcTrain Floating University 2018"
 collection: fieldwork
 permalink:/fieldwork/floating_university
-date: 2018-09-03 
+date: 2018-08-08 
 ---
 
 ## ArcTrain Floating University
