@@ -14,3 +14,4 @@ citation: 'D. Paraficz, F. Courbin, A. Tramacere, R. Joseph, R.B. Metcalf, J.P. 
 [Download paper here](http://dringeis.github.io/files/1605.04309.pdf)
 
 Recommended citation: D. Paraficz, F. Courbin, A. Tramacere, R. Joseph, R.B. Metcalf, J.P. Kneib, P. Dubath, D. Droz, F. Filleul, D. Ringeisen, C. Schäfer, The PCA Lens- Finder: application to CFHTLS. Astron. Astrophys. 592, A75 (2016). doi: 10.1051/0004-6361/201527971
+
