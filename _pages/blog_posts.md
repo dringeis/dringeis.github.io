@@ -4,9 +4,13 @@ title: "Blog Posts"
 permalink: /blog_posts/
 ---
 
-I'm sometimes writing small blog articles on the ArcTrain Blog or other, e.g. the Polarstern Blog during expedition. Here is a list of links (from the newest to oldest):
+I'm sometimes writing blog articles on the ArcTrain Blog or other, e.g. the Polarstern Blog during expedition. Here is a list of links (from the newest to oldest):
 
 - [**Behind the blog : Damien**](https://arctrain.de/behind-the-blog-damien/) - *On the ArcTrain blog*
 - [**Measuring ice and snow thickness : Poke it with a stick**](https://blogs.helmholtz.de/polarstern/en/2018/10/measuring-ice-and-snow-thickness-poke-it-with-a-stick/) - *On the Polarstern Blog*
 - [**Brittany, pancakes and sea ice – common points!**](https://arctrain.de/brittany-pancakes-and-sea-ice-common-points/) - *On the ArcTrain Blog*
 - [**Starting up a PhD**](https://arctrain.de/starting-up-a-phd/) - *On the ArcTrain blog*
+
+My work has been features on some blog articles as well :
+ 
+ - [**Breaking the ice**](http://mitgcm.org/2019/05/26/breaking-the-ice/) - * On the MITgcm blog
