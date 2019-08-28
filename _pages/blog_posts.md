@@ -14,3 +14,4 @@ I'm sometimes writing blog articles on the ArcTrain Blog or other, e.g. the Pola
 My work has been features on some blog articles as well :
  
  - [**Breaking the ice**](http://mitgcm.org/2019/05/26/breaking-the-ice/) - *On the MITgcm blog*
+ - [**Im Polargebiet für den Klimaschutz forschen**](http://www.abi.de/beruf-karriere/berufsreportagen/nfe/klimaforscher016763.htm) - *On abi.de Website*
