@@ -16,6 +16,17 @@ C'est un podcast que j'avais écrit et créé pour le concours de l'été de [Ar
 
 ***
 
+## Les phoques du Bic - The seals of Bic
+
+Enregistrement d'un échouage de phoque dans le parc du Bic, près de Rimouski au Québec, Canada.
+Recording of stranded seals in Parc du Bic, close to Rimouski, Québec, Canada.
+
+Son binaural, à écouté au casque - Binaural sound, listen to it with earphones. 
+
+<iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/139263"></iframe>
+
+***
+
 ## Some adresses I recommand for podcasts
 
 ### Français
