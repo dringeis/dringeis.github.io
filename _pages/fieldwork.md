@@ -12,4 +12,6 @@ I am going in September on my first fieldwork onboard RV Polarstern. This scient
 
 *more to come...*
 
+## ArcTrain Summer School (2019-09-06 -> 2019-09-14)
 
+*More to come*
