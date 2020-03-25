@@ -18,4 +18,4 @@ My work or myself have been featured on some articles as well :
  
  - [**Breaking the ice**](http://mitgcm.org/2019/05/26/breaking-the-ice/) - *On the MITgcm blog*
  - [**Im Polargebiet für den Klimaschutz forschen**](http://www.abi.de/beruf-karriere/berufsreportagen/nfe/klimaforscher016763.htm) - *On abi.de Website*
-     - A similar article was published in the *abi>> dein weg in studium und beruf* printed journal issue of december 2019
+     - A similar article was published in the *abi>> dein weg in studium und beruf* printed journal, issued in december 2019
