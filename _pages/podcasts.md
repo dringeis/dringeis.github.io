@@ -4,7 +4,7 @@ title: "Podcasts"
 permalink: /podcasts/
 ---
 
-I am passionated in radio, podcasting and audio production. It is for me a great way to spread knowledge, touch people directly with sounds and is really practical. I am trying to create some myself, in French or English. 
+I passionate myself  for radio, podcasting and audio production, especially field recording. It is for me a great way to spread knowledge, touch people directly with sounds and is really practical. I am trying to create some myself, in French or English. 
 
 ***
 
