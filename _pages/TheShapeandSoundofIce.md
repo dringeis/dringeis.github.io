@@ -9,4 +9,17 @@ author_profile: true
 
 Sea ice is often not a uniform medium, it is a substance that is worked by the meteorologic conditions, pushed by the wind, broken by the waves, it piles itself, it is nurtured by snow from above, increased by sea water from below. It takes so many shapes and forms, so many material properties. It softly deforms with the waves when it is thin. It is also incredibly strong when it is thick, so strong that it can crush unprepared ships. It is also a place of life, It harbours many species. Seals, walruss, polarbears, foxe, fishes, planktons, or shrimps. 
 
+![](/images/seaice/IMG_8156.jpg)
+
+![](/images/seaice/IMG_8157.jpg)
+
+![](/images/seaice/IMG_8415.jpg)
+
+![](/images/seaice/IMG_8416.jpg)
+
+![](/images/seaice/IMG_8156.jpg)
+
+![](/images/seaice/IMG_8424.jpg)
+
+![](/images/seaice/IMG_8429.jpg)
 
