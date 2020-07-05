@@ -10,7 +10,7 @@ I am going in September on my first fieldwork onboard RV Polarstern. This scient
 
 14 ArcTrain students will be onboard and will participate on the scientific work with every scientific groups. 
 
-*more to come...*
+<img src="/images/seaice/IMG_8156.jpg" alt="Kirstie Whitaker" width="50%" align="left" hspace="20" vspace="20">
 
 ## ArcTrain Summer School (2019-09-06 -> 2019-09-14)
 
