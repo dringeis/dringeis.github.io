@@ -21,8 +21,8 @@ main:
   - title: "Podcasts"
     url: /podcasts/
     
-#  - title: "The Shape and Sound of Ice"
-#    url: /the_shape_and_sound_of_ice/
+  - title: "The Shape and Sound of Ice"
+    url: /the_shape_and_sound_of_ice/
 
 #  - title: "CV"
 #    url: /cv/
