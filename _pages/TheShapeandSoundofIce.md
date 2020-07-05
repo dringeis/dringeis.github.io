@@ -19,8 +19,6 @@ For my PhD in 2018, I joined the Scientific Expedition PS115.2 aboard the german
 
 ![](/images/seaice/IMG_8416.jpg)
 
-![](/images/seaice/IMG_8156.jpg)
-
 ![](/images/seaice/IMG_8424.jpg)
 
 ![](/images/seaice/IMG_8429.jpg)
