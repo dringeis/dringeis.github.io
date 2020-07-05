@@ -13,6 +13,8 @@ During my PhD in 2018, I joined the Scientific Expedition PS115.2 aboard the ger
 
 Listen to the recording while looking at the pictures.
 
+<iframe width="100%" src="https://audioblog.arteradio.com/embed/150840" style="margin: 0;padding: 0;border: none;"></iframe>
+
 ![](/images/seaice/IMG_8156.jpg)
 
 ![](/images/seaice/IMG_8157.jpg)
