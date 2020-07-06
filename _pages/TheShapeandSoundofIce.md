@@ -15,6 +15,8 @@ During my PhD in 2018, I joined the Scientific Expedition PS115.2 aboard the ger
 
 That's what I share with you here.
 
+Big thanks to the crew and scientifique teams of the expedition PS115.2, and to ArcTrain and the Alfred-Wegener-Institute (AWI) for making my participation possible.
+
 I would recommand to listen to the recording (with headphones) while looking at the pictures. Enjoy!
 
 <iframe width="100%" src="https://audioblog.arteradio.com/embed/150840" style="margin: 0;padding: 0;border: none;"></iframe>
@@ -88,5 +90,3 @@ I would recommand to listen to the recording (with headphones) while looking at 
 ![](/images/seaice/breaking-ice.jpg)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-Big thanks to the crew and scientifique teams of the expedition PS115.2, and to ArcTrain and the Alfred-Wegener-Institute (AWI) for making my participation possible and operating this fine ship.
