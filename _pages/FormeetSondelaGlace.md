@@ -2,7 +2,7 @@
 layout: archive
 title: "La Forme et le Son de la Glace"
 permalink: /banquise/
-author_profile: true
+author_profile: false
 ---
 
 <div style="text-align: right"> <a href="https://dringeis.github.io/sea_ice/">ENGLISH</a> <b>FRANÇAIS</b> </div>
