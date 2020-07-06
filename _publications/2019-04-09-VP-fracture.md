@@ -2,11 +2,9 @@
 title: "Simulating intersection angles between conjugate faults in sea ice with different viscous–plastic rheologies"
 collection: publications
 permalink: /publication/2019-04-09-VP-fracture
-excerpt: 'Recent high-resolution pan-Arctic sea ice simulations show fracture patterns (linear kinematic features or LKFs) that are typical of granular materials but with wider fracture angles than those observed in high-resolution satellite images. Motivated by this, ice fracture is investigated...'
+excerpt: ''
 date: 2019-04-09
 venue: 'The Cryosphere'
-paperurl: 'https://www.the-cryosphere.net/13/1167/2019/tc-13-1167-2019.pdf'
-citation: 'Ringeisen, D., Losch, M., Tremblay, L. B., and Hutter, N.: Simulating intersection angles between conjugate faults in sea ice with different viscous–plastic rheologies, The Cryosphere, 13, 1167-1186, https://doi.org/10.5194/tc-13-1167-2019, 2019. '
 ---
 
 ### Short Summary:
