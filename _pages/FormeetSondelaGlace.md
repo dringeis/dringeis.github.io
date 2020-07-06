@@ -5,7 +5,7 @@ permalink: /banquise/
 author_profile: true
 ---
 
-<div style="text-align: right"> <a href="dringeis.github.io/sea_ice/">ENGLISH</a> <b>FRANÇAIS</b> </div>
+<div style="text-align: right"> <a href="https://dringeis.github.io/sea_ice/">ENGLISH</a> <b>FRANÇAIS</b> </div>
 
 *La Forme et le Son de la Glace* est un projet personel multimedia et de vulgarisation, constitué de photgraphie (argentique ou numériques) et d'enregistrement sonores.
 
