@@ -7,7 +7,7 @@ author_profile: true
 
 <div style="text-align: right"> <a href="https://dringeis.github.io/sea_ice/">ENGLISH</a> <b>FRANÇAIS</b> </div>
 
-*La Forme et le Son de la Glace* est un projet personel multimedia et de vulgarisation, constitué de photgraphie (argentique ou numériques) et d'enregistrement sonores.
+*La Forme et le Son de la Glace* est un projet personel multimedia et de vulgarisation, constitué de photgraphie (argentique ou numériques) et d'enregistrement sonores de la banquise arctique.
 
 La banquise, ou glace de mer, est un milieu très diverse, sa substance est modelée par les condition météorologiques, elle est poussée par les vents, cassée par les vagues, elle s'empile, se cogne et se fracture. La banquise s'augmente par la neige au dessus, par l'eau de mer par le dessous, puis fond au gré des vents chaud ou des courants tièdes. De cela, la glace de mer prend beaucoup de formes, et beaucoup de propriété differentes. La glace fine se deforme doucement en suivant les vagues alors que la glace épaisse sera assez forte pour écraser les navires non préparé. C'est aussi un lieu de vie, la glace abrite beaucoup d'espèces, certaines menacées: Phoques, morses, ours polaires, renards, poissons, mais aussi crevettes et planktons.
 
