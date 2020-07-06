@@ -5,7 +5,7 @@ permalink: /sea_ice/
 author_profile: true
 ---
 
-<div style="text-align: right"> <b>ENGLISH</b> <a href="dringeis.github.io/banquise">FRANÇAIS</a> </div>
+<div style="text-align: right"> <b>ENGLISH</b> <a href="https://dringeis.github.io/banquise/">FRANÇAIS</a> </div>
 
 *The Shape and Sound of Ice* is a personal multimedia and vulgarisation project, made of photgraphs and sound recordings.
 
