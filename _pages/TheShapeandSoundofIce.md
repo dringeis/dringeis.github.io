@@ -2,7 +2,7 @@
 layout: archive
 title: "The Shape and Sound of Ice"
 permalink: /sea_ice/
-author_profile: true
+author_profile: false
 ---
 
 <div style="text-align: right"> <b>ENGLISH</b> <a href="https://dringeis.github.io/banquise/">FRANÇAIS</a> </div>
