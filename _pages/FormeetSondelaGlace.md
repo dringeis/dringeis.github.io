@@ -88,3 +88,5 @@ Je vous recomande d'écouter l'enregistrement (avec un casque ou des écouteurs)
 ![](/images/seaice/breaking-ice.jpg)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+Merci à l'équipage et les équipes scientifiques de l’expédition PS115.2, ainsi qu'a ArcTrain et l'Alfred-Wegener-Institute pour avoir rendu ma participation possible et pour opérer ce grise-glace.
