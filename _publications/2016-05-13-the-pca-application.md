@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2016-05-13-the-pca-application
 date: 2016-05-13
 venue: 'Astronomy and Astrophysics'
+excerpt: ''
 ---
 
 
