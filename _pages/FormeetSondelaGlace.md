@@ -15,7 +15,7 @@ En 2018, pour mon doctorat, j'ai participé à l'expédition scientifique PS115.
 
 C'est ce que je vous partage ici.
 
-Et merci à l'équipage et lmes équipes scientifiques de l’expédition PS115.2, ainsi qu'a ArcTrain et l'Alfred-Wegener-Institute (AWI) pour avoir rendu ma participation possible.
+Et merci à l'équipage et aux équipes scientifiques de l’expédition PS115.2, ainsi qu'à ArcTrain et l'Alfred-Wegener-Institute (AWI) pour avoir rendu ma participation possible.
 
 Je vous recommande d'écouter l'enregistrement (avec un casque ou des écouteurs) tout en regardant les photos. J'espère que cela vous plaira!
 
