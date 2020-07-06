@@ -11,9 +11,11 @@ Sea ice is not a uniform medium, it is a substance that is worked by the meteoro
 
 During my PhD in 2018, I joined the Scientific Expedition PS115.2 aboard the german icebreaker. We spent more than 4 weeks in central Arctic, steaming through the ice. I recorded the sound of sea ice as the ship go through it, break it and create its way. I have also compiled pictures of the different shapes that ice can take. 
 
-Listen to the recording while looking at the pictures.
+I would recommand to listen to the recording (with headphones) while looking at the pictures. Enjoy!
 
 <iframe width="100%" src="https://audioblog.arteradio.com/embed/150840" style="margin: 0;padding: 0;border: none;"></iframe>
+
+![](/images/seaice/iceberg.jpg)
 
 ![](/images/seaice/IMG_8156.jpg)
 
@@ -65,10 +67,20 @@ Listen to the recording while looking at the pictures.
 
 ![](/images/seaice/IMG_8793.jpg)
 
+![](/images/seaice/IMG_8796.jpg)
+
 ![](/images/seaice/IMG_9276.jpg)
 
 ![](/images/seaice/IMG_9279.jpg)
 
 ![](/images/seaice/IMG_9309.jpg)
+
+![](/images/seaice/ridge.jpg)
+
+![](/images/seaice/iceberg_ship.jpg)
+
+![](/images/seaice/broken-ice.jpg)
+
+![](/images/seaice/breaking-ice.jpg)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
