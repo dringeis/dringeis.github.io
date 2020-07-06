@@ -2,7 +2,6 @@
 title: "The PCA Lens-Finder: application to CFHTLS"
 collection: publications
 permalink: /publication/2016-05-13-the-pca-application
-excerpt: ''
 date: 2016-05-13
 venue: 'Astronomy and Astrophysics'
 ---
