@@ -9,7 +9,7 @@ author_profile: false
 
 *The Shape and Sound of Ice* is a personal multimedia and vulgarisation project, made of photographs (film and digital) and sound recordings.
 
-Sea ice is not a uniform medium, it is a substance that is worked by the meteorologic conditions. Sea ice is pushed by the wind, broken by the waves; it piles itself; it is nurtured by snow from above, increased by seawater from below. It takes so many shapes and forms, so many material properties. It softly deforms with the waves when it is thin. It is also incredibly strong when it is thick, so strong that it can crush unprepared ships. It is also a place of life, It harbors many species: Seals, walruses, polar bears, foxes, fish, planktons, or shrimps.
+Sea ice is not a uniform medium, it is a substance that is worked by the meteorologic conditions. Sea ice is pushed by the wind, broken by the waves; it piles itself; it is nurtured by snow from above, increased by seawater from below. It takes so many shapes and forms, so many material properties. It softly deforms with the waves when it is thin. It is also incredibly strong when it is thick, so strong that it can crush unprepared ships. It is also a place of life, It harbors many species: Seals, walruses, polar bears, foxes, fish, or planktons.
 
 During my PhD in 2018, I joined the Scientific Expedition PS115.2 aboard the german icebreaker POLARSTERN. We spent more than 4 weeks in the central Arctic, steaming through the ice. I recorded the sound of sea ice as the ship go through it, break it, and create its way. I have also compiled pictures of the different shapes that ice can take. 
 
