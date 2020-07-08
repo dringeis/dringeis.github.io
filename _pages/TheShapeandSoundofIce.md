@@ -17,7 +17,7 @@ That's what I share with you here.
 
 Big thanks to the crew and scientific teams of expedition PS115.2, and to ArcTrain and the Alfred-Wegener-Institute (AWI) for making my participation possible.
 
-I would recommend listening to the recording (with headphones) while looking at the pictures. Enjoy!
+I would recommend listening to the recording (with headphones!) while looking at the pictures. Enjoy!
 
 <iframe width="100%" src="https://audioblog.arteradio.com/embed/150840" style="margin: 0;padding: 0;border: none;"></iframe>
 
