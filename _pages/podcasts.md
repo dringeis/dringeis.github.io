@@ -8,6 +8,16 @@ I passionate myself  for radio, podcasting and audio production, especially fiel
 
 ***
 
+## Oies - Geese
+
+Binaural recording of birds at Polder Glies, Sellstedt, Germany.
+
+Recorded on November8th 2020 with a Tascam DR100 MK3 and a pair of The t.bone SC140 in ORTF setup.
+
+<iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/156918"></iframe>
+
+***
+
 ## Mangeoire - Bird feeder
 
 Deux microphones dans une mangeoire à oiseaux. À écouter avec un casque audio!
