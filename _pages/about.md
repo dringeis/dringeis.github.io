@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Born in France, I studied my Bachelar and Master of Science in Switzerland, and I'm now working on my PhD in Northern Germany at the Alfred Wegener Institute, Helmoltz Center for Polar and Marine research. 
+Born in France, I studied my Bachelor and Master of Science in Switzerland, and I'm now working on my PhD in Northern Germany at the Alfred Wegener Institute, Helmoltz Center for Polar and Marine research. 
 
 I'm working on high resolution sea ice modeling for climate simulations. As we increased the resolution of the climate models, we now have the power to resolve more features in the sea ice cover, like leads (fracture lines) and large ice floes. The question is now to know if what we are modeling is correct compared to the observations.
 
