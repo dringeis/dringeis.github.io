@@ -1,0 +1,18 @@
+---
+title: "PhD Thesis: Fracture Angles in Numerical Simulations of Sea Ice with Viscous-Plastic Rheologies"
+collection: publications
+permalink: /publication/2020-09-04-thesis
+date: 2020-09-04
+venue: 'University of Bremen'
+excerpt: ''
+---
+
+### Abstract:
+
+Sea ice is an essential component of the climate system because it modulates the exchange of energy between the ocean and the atmosphere. Under stress from wind and ocean currents, sea ice deforms constantly. Sea ice deformation takes the shape of narrow lines, the Linear Kinematic Features (LKFs). LKFs influence the heat transfer, mass balance, and sea ice dynamics, so LKFs should be accurately represented in high-resolution climate models. Sea ice is commonly modeled using viscous-plastic (VP) rheologies defined by a yield curve and a flow rule. Recent work showed that VP sea ice models explicitly create LKFs but overestimate their intersection angles. This thesis aims to investigate the link between the angles of fracture in sea ice models and the parametrization of the sea ice internal stresses using idealized compression experiments. Three questions are addressed: Which parameters of the VP rheologies influence the fracture angle? Which theoretical framework explains this influence? Which rheologies should be used to simulate intersection angles at the observed range? With the commonly used standard VP rheology with an elliptical yield curve and a normal flow rule, the fracture angles are linked to the yield curve's elliptical shape. Because of this shape, this rheology cannot create sea ice fracture angles more acute than 30 degrees in uniaxial compression, even by changing the aspect of the ellipse. The classical coulombic theory predicts the angle of fracture accurately when adapted to the context of sea ice modeling. A new rheology with an elliptical yield curve and a non-normal flow rule shows that fracture angles are also sensitive to the orientation of the flow rule. Using this new rheology allows creating fracture angles as low as 22 degrees in uniaxial compression. A theory based on the angle of dilatancy and observations of granular materials predicts precisely the simulated angles. Alternative rheologies can create fracture angles lower than 30 degrees. With Mohr--Coulomb yield curves, fracture angles are well predicted by joining the concepts of coulombic friction and angle of dilatancy. Teardrop and Parabolic lens yield curves create small angles of fracture in uni-axial compression when used with small tensile strength. Using a more realistic sea ice cover with heterogeneity, failure under deformation takes the form of a network of fracture lines. The choice of rheology strongly influences the angle of fracture in this network. Two rheologies are suitable candidates to decrease the fracture angles in sea ice VP models. In conclusion, fracture angles in sea ice models are determined by the properties of the VP rheology and can be accurately predicted using fracture orientation theory. Changing the rheology can reduce the fracture angles in sea ice simulations. With the results presented in this thesis, new rheologies could be inferred from observations to represent sea ice fracture more realistically.
+
+### DOI:
+
+**DOI:10.26092/elib/380**
+
+[Download the pdf here](https://doi.org/10.26092/elib/380)
