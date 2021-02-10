@@ -6,6 +6,7 @@ permalink: /blog_posts/
 
 I'm sometimes writing blog articles on the ArcTrain Blog or other, e.g. the Polarstern Blog during expedition. Here is a list of links (from the newest to oldest):
 
+- [**Experiences with online conferences – from an Early Career Scientist perspective**](https://arctrain.de/experiences-with-online-conferences-from-an-early-career-scientist-perspective/) - *On the ArcTrain blog*
 - [**The Disappearing Sea Ice Volume - EN**](https://arctrain.de/the-disappearing-sea-ice-volume/) - [**FR**](https://arctrain.de/fr/the-disappearing-sea-ice-volume/) - *On the ArcTrain blog*
 - [**Nordicity, what does The North mean?**](https://arctrain.de/arctrain-summer-school-day-6-nordicity-what-does-the-north-mean/) - *On the ArcTrain blog*
 - [**Sea Ice Volume Stripes**](https://twitter.com/i/moments/1172573674391535616?s=13) - *On Twitter* 
