@@ -48,17 +48,7 @@ Son binaural, à écouté au casque - Binaural sound, listen to it with earphone
 
 <iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/139263"></iframe>
 
-***
-
-## [FR] Un été au jardin
-
-C'est un podcast que j'avais écrit et créé pour le concours de l'été de [Arte Radio](https://www.arteradio.com/), mais que je n'avais pas eu le temps de finaliser.
-
-<iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/132017"></iframe>
-
-***
-
-## Some adresses I recommand for podcasts
+## Some adresses I recommand for podcasts:
 
 ### Français
 
