@@ -7,11 +7,11 @@ author_profile: true
 
 ### Review karma
 
-| Paper Accepted or published   | Paper reviewed     | Paper debt                               |
-| :---------------------------: | :----------------: | :--------------------------------------: |
-|               2               |         0          |   <span style="color:red"> -2 </span>    |
+| First-author papers accepted or published   |    Paper reviewed     | Paper debt                               |
+| :-----------------------------------------: | :-------------------: | :--------------------------------------: |
+|               2                             |           0           |    <span style="color:red"> -2 </span>   |
 
-I'm in paper debt, contact me for some review (within my expertise).
+I've a bad paper karma, contact me to review scientific papers (within my expertise).
 
 ----
 
