@@ -13,6 +13,8 @@ author_profile: true
 
 I'm in paper debt, contact me for some review (within my expertise).
 
+----
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
