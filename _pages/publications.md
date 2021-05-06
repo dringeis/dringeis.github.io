@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Review karma
+### Review karma
 
 | Paper Accepted or published   | Paper reviewed     | Paper debt                               |
 | :---------------------------: | :----------------: | :--------------------------------------: |
