@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conferences"
+title: "Talks and presentations"
 permalink: /talks/
 ---
 
