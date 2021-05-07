@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Conferences"
-permalink: /conferences/
+permalink: /talks/
 ---
 
 ## Upcoming Conferences and Workshops
