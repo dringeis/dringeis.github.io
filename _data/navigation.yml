@@ -6,8 +6,8 @@ main:
   - title: "Fieldwork"
     url: /fieldwork/
     
-  - title: "Conferences and Workshops"
-    url: /conferences/
+  - title: "talks"
+    url: /talks/
 
 #  - title: "Talks"
 #    url: /talks/    
