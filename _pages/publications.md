@@ -7,7 +7,7 @@ author_profile: true
 
 ### Review karma
 
-| First-author papers accepted or published   |    Paper reviewed     | Paper debt                               |
+| First-author papers accepted or published   |    Paper reviewed     | Paper karma                              |
 | :-----------------------------------------: | :-------------------: | :--------------------------------------: |
 |               2                             |           0           |    <span style="color:red"> -2 </span>   |
 
