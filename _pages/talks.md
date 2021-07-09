@@ -4,9 +4,9 @@ title: "Talks and presentations"
 permalink: /talks/
 ---
 
-## Upcoming talks
+## Upcoming talks and posters
 
-## Past talks
+## Past talks and posters
 
 - 6th ECCOMAS Young Investigators Conference 2021 - Online [[access coming soon]]
 - vEGU21 - Online - PICO talk and presentaton [[access]](https://doi.org/10.5194/egusphere-egu21-1373)
