@@ -8,7 +8,7 @@ permalink: /talks/
 
 ## Past talks and posters
 
-- 6th ECCOMAS Young Investigators Conference 2021 - Online [[access coming soon]]
+- 6th ECCOMAS Young Investigators Conference 2021 - Online [[access]](https://epic.awi.de/id/eprint/54346/)
 - vEGU21 - Online - PICO talk and presentaton [[access]](https://doi.org/10.5194/egusphere-egu21-1373)
 - AGU Fall Meeting 2020 - Online - Virtual Poster presentation [[access]](https://doi.org/10.1002/essoar.10506018.1)
 - Sea Ice at the Interface - Winnipeg, Manitoba, Canada, 18–23 August 2019 - Poster presentation [[access]](http://hdl.handle.net/10013/epic.25b0b323-4ebc-461b-8022-6414c1829d8b)
