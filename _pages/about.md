@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Born in France, I studied my Bachelor and Master of Science in Switzerland, and I was given my PhD (Dr. rer. nat.) in Northern Germany at the Alfred Wegener Institute, Helmoltz Center for Polar and Marine research, and at the university of Bremen. I am now working as PostDoc Researcher at McGill university, in the departement of Oceanic and Atmospheric science.
+Born in France, I studied my Bachelor and Master of Science in Switzerland, and I was given my PhD (Dr. rer. nat.) in Northern Germany at the Alfred Wegener Institute, Helmoltz Center for Polar and Marine research, and at the university of Bremen. I am now working as PostDoc Researcher at McGill university, in the departement of Oceanic and Atmospheric Sciencs.
 
 I'm working on high resolution sea ice modeling for climate simulations. As we increased the resolution of the climate models, we now have the power to resolve more features in the sea ice cover, like leads (fracture lines) and large ice floes. The question is now to know if what we are modeling is correct compared to the observations.
 
