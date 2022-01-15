@@ -6,6 +6,8 @@ permalink: /talks/
 
 ## Upcoming talks and posters
 
+- YOPP Final Summit - Oral presentation - 
+
 ## Past talks and posters
 
 - 6th ECCOMAS Young Investigators Conference 2021 - Online [[access]](https://epic.awi.de/id/eprint/54346/)
