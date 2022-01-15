@@ -9,9 +9,9 @@ author_profile: true
 
 | First-author papers accepted or published   |    Paper reviewed     | Paper karma                              |
 | :-----------------------------------------: | :-------------------: | :--------------------------------------: |
-|               2                             |           0           |    <span style="color:red"> -2 </span>   |
+|               2                             |           2           |    <span style="color:red"> 0 </span>    |
 
-I've a bad paper karma, contact me to review scientific papers (within my expertise).
+I've a neutral paper karma, contact me to review scientific papers (within my expertise).
 
 ----
 
