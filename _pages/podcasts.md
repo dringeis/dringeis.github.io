@@ -8,7 +8,20 @@ I passionate myself  for radio, podcasting and audio production, especially fiel
 
 ***
 
-## Grues - Cranes
+## Editing and Hosting Activity
+I joined the podcast from the Association of Polar Early Career Scientists, **Polar Times**. I am editing and soon hostinf some podcasts.
+
+Here are some episodes I edited:
+- [Fieldwork Fun with Foxes](https://polartimes.podbean.com/e/fieldwork-fun-with-foxes/)
+- [Greenland Caves](https://polartimes.podbean.com/e/greenland-caves/)
+
+## Other creations
+
+### The Shape and Sound of Ice
+
+[Discover this photo and recording project here](https://dringeis.github.io/sea_ice/)
+
+### Grues - Cranes
 
 Binaural recording of a flyin group of cranes at Polder Glies, Sellstedt, Germany.
 
@@ -18,7 +31,7 @@ With the photographic clicks of Thomas Heran (www.instagram.com/thomas_heran.a/ 
 
 ***
 
-## Oies - Geese
+### Oies - Geese
 
 Binaural recording of birds at Polder Glies, Sellstedt, Germany.
 
@@ -28,7 +41,7 @@ Recorded on November 8th 2020 with a Tascam DR100 MK3 and a pair of The t.bone S
 
 ***
 
-## Mangeoire - Bird feeder
+### Mangeoire - Bird feeder
 
 Deux microphones dans une mangeoire à oiseaux. À écouter avec un casque audio!
 Two microphones in a bird feeder. To listen with headphones!
@@ -39,7 +52,7 @@ Recorded on April 19th 2020 with a zoom H1n and binaural microphones Roland CS-1
 
 ***
 
-## Les phoques du Bic - The seals of Bic
+### Les phoques du Bic - The seals of Bic
 
 Enregistrement d'un échouage de phoque dans le parc du Bic, près de Rimouski au Québec, Canada.
 Recording of stranded seals in Parc du Bic, close to Rimouski, Québec, Canada.
@@ -48,7 +61,7 @@ Son binaural, à écouté au casque - Binaural sound, listen to it with earphone
 
 <iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/139263"></iframe>
 
-## Some adresses I recommand for podcasts:
+## Some adresses I recommend for podcasts:
 
 ### Français
 
@@ -60,3 +73,8 @@ Son binaural, à écouté au casque - Binaural sound, listen to it with earphone
 
 ### English
 - [The Heart](https://www.theheartradio.org/)
+
+
+
+
+
