@@ -16,65 +16,13 @@ Here are some episodes I edited:
 - [Fieldwork Fun with Foxes](https://polartimes.podbean.com/e/fieldwork-fun-with-foxes/)
 - [Greenland Caves](https://polartimes.podbean.com/e/greenland-caves/)
 
-## Other creations
-
-### The Shape and Sound of Ice
+## The Shape and Sound of Ice
 
 [Discover this photo and recording project here](https://dringeis.github.io/sea_ice/)
 
-### Grues - Cranes
+## Field Recordings
 
-Binaural recording of a flyin group of cranes at Polder Glies, Sellstedt, Germany.
-
-With the photographic clicks of Thomas Heran (www.instagram.com/thomas_heran.a/ - www.thomasheran.com/ )
-
-<iframe width="500px" height='165px' src="https://audioblog.arteradio.com/embed/165336"></iframe>
-
-***
-
-### Oies - Geese
-
-Binaural recording of birds at Polder Glies, Sellstedt, Germany.
-
-Recorded on November 8th 2020 with a Tascam DR100 MK3 and a pair of The t.bone SC140 in ORTF setup.
-
-<iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/156918"></iframe>
-
-***
-
-### Mangeoire - Bird feeder
-
-Deux microphones dans une mangeoire à oiseaux. À écouter avec un casque audio!
-Two microphones in a bird feeder. To listen with headphones!
-
-Recorded on April 19th 2020 with a zoom H1n and binaural microphones Roland CS-10EM.
-
-<iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/146243"></iframe>
-
-***
-
-### Les phoques du Bic - The seals of Bic
-
-Enregistrement d'un échouage de phoque dans le parc du Bic, près de Rimouski au Québec, Canada.
-Recording of stranded seals in Parc du Bic, close to Rimouski, Québec, Canada.
-
-Son binaural, à écouté au casque - Binaural sound, listen to it with earphones. 
-
-<iframe width='500px' height='165px' src="https://audioblog.arteradio.com/embed/139263"></iframe>
-
-## Some adresses I recommend for podcasts:
-
-### Français
-
-- [Arte Radio](https://www.arteradio.com/)
-- [Phaune Radio](https://phauneradio.com/)
-- [Radio Canut](https://radiocanut.org/)
-- [Nouvelles Écoutes](http://www.nouvellesecoutes.fr/)
-- [Binge Audio](https://www.binge.audio/)
-
-### English
-- [The Heart](https://www.theheartradio.org/)
-
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1167444097&color=%2373b0ff&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/damien-ringeisen" title="Damien Ringeisen" target="_blank" style="color: #cccccc; text-decoration: none;">Damien Ringeisen</a> · <a href="https://soundcloud.com/damien-ringeisen/sets/field-recordings" title="Field Recordings" target="_blank" style="color: #cccccc; text-decoration: none;">Field Recordings</a></div>
 
 
 
