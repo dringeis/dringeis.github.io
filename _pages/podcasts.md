@@ -12,6 +12,7 @@ I passionate myself  for radio, podcasting and audio production, especially fiel
 I joined the podcast from the Association of Polar Early Career Scientists, **Polar Times**. I am editing and soon hosting podcasts.
 
 Here are some episodes I edited:
+- [The Life Aquatic](https://polartimes.podbean.com/e/the-life-aquatic/)
 - [A Polar Poet](https://polartimes.podbean.com/e/a-polar-poet/)
 - [Fieldwork Fun with Foxes](https://polartimes.podbean.com/e/fieldwork-fun-with-foxes/)
 - [Greenland Caves](https://polartimes.podbean.com/e/greenland-caves/)
