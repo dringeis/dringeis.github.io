@@ -10,6 +10,7 @@ permalink: /talks/
 
 ## Past talks and posters
 
+- **Outreach:** Oceanoclasse 2022 - [[Video available here]](https://www.youtube.com/watch?v=0lXpwilT-sE)
 - 6th ECCOMAS Young Investigators Conference 2021 - Online [[access]](https://epic.awi.de/id/eprint/54346/)
 - vEGU21 - Online - PICO talk and presentaton [[access]](https://doi.org/10.5194/egusphere-egu21-1373)
 - AGU Fall Meeting 2020 - Online - Virtual Poster presentation [[access]](https://doi.org/10.1002/essoar.10506018.1)
