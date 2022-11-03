@@ -9,7 +9,7 @@ author_profile: true
 
 | First-author papers accepted or published   |    Paper reviewed     | Paper karma                              |
 | :-----------------------------------------: | :-------------------: | :--------------------------------------: |
-|               2                             |           4           |    <span style="color:red"> 0 </span>    |
+|               2                             |           4           |    <span style="color:green"> 2 </span>    |
 
 I've a neutral paper karma, contact me to review scientific papers (within my expertise).
 
