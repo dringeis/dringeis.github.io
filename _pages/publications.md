@@ -15,7 +15,9 @@ I've a neutral paper karma, contact me to review scientific papers (within my ex
 
 ----
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on 
+- [my Google Scholar profile](https://scholar.google.ca/citations?user=QjS3jfYAAAAJ&hl=en&oi=ao)
+- [my ORCID profile nbr. 0000-0002-8436-6928 ](https://orcid.org/0000-0002-8436-6928)
 
 {% include base_path %}
 
