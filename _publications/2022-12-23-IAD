@@ -1,9 +1,9 @@
 ---
-title: "[PREPRINT] Deformation lines in Arctic sea ice: intersection angles distribution and mechanical properties "
+title: "[ACCEPTED] Deformation lines in Arctic sea ice: intersection angles distribution and mechanical properties "
 collection: publications
 permalink: /publication/2022-12-23-IAD
 date: 2022-12-23
-venue: 'EGUsphere, submitted to The Cryosphere'
+venue: 'EGUsphere, accepted for publication in The Cryosphere'
 excerpt: ''
 ---
 
@@ -11,6 +11,6 @@ excerpt: ''
 
 In Arctic sea ice, the intersection angles between Linear Kinematic Features (LKFs) are linked to the internal mechanical properties. Sea ice rheological models struggle to reproduce the intersection angles between LKFs in Arctic sea ice. We aim to obtain an intersection angle distribution (IAD) from observational data to serve as a reference for high-resolution sea ice models and to infer the mechanical properties of the sea ice cover. We use the sea ice vorticity to discriminate between acute and obtuse LKFs intersection angles within two sea ice deformation datasets: the RGPS and a new dataset from the MOSAiC drift experiment. Acute angles dominate the IAD, with single peaks at 48º ± 2 and 45º ± 7. The IAD agrees well between both datasets, despite the difference in scale, time periods, and geographical location. The divergence and shear rates of the LKFs also have the same distribution. The dilatancy angle (the ratio of shear and divergence) is not correlated with the intersection angle. Using the IAD, we infer an internal angle of friction in sea ice of µI= 0.66 ± 0.02 and µI= 0.75 ± 0.05. The shape of the yield curve or the plastic potential derived from the observed IAD resembles the teardrop or a Mohr–Coulomb shape. With those new insights, sea ice rheologies used in models can be adapted or re-designed to improve the representation of sea-ice dynamics.
  
-[Download the paper here](https://doi.org/10.5194/egusphere-2022-1481)
+[Download the preprint here](https://doi.org/10.5194/egusphere-2022-1481)
 
 How to cite: Ringeisen, D., Hutter, N., and von Albedyll, L.: Deformation lines in Arctic sea ice: intersection angles distribution and mechanical properties, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-1481, 2022. 
