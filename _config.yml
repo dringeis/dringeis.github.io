@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Damien Ringeisen"
   avatar           : "DamienRingeisen2.jpg"
-  bio              : "PostDoc Researcher"
+  bio              : "PostDoc Research Scientist"
   location         : "New York"
   employer         : "Columbia University"
   googlescholar    : "https://scholar.google.de/citations?user=QjS3jfYAAAAJ&hl=en"
   email            : "damien.ringeisen@gmail.com"
-  uri              : 
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,8 +97,8 @@ author:
   github           : "dringeis"
   google_plus      :
   keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "rinzinzinzin"
   lastfm           :
   linkedin         : "damien-ringeisen-0b5436195"
   orcid            : "http://orcid.org/0000-0002-8436-6928"
