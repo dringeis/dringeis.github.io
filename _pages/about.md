@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Born in France, I studied my Bachelor and Master of Science in Switzerland, and I was given my PhD (Dr. rer. nat.) in Northern Germany at the Alfred Wegener Institute, Helmoltz Center for Polar and Marine research, and at the university of Bremen. I am now working as PostDoc Researcher at McGill university, in the departement of Oceanic and Atmospheric Sciencs.
-
-I'm working on high resolution sea ice modeling for climate simulations. As we increased the resolution of the climate models, we now have the power to resolve more features in the sea ice cover, like leads (fracture lines) and large ice floes. The question is now to know if what we are modeling is correct compared to the observations.
-
-I am financed and member of the International Research Training Group **ArcTrain**, a collaboration between several institutes in Germany and Canada. More information are available on [our project website](https://arctrain.de/).
+Born in France, I studied my Bachelor and Master of Science in Switzerland, and I was awarded my PhD (Dr. rer. nat.) in Northern Germany at the Alfred Wegener Institute, Helmoltz Center for Polar and Marine research, and at the university of Bremen. After a PostDoc at McGill university, I am now a Postdoctoral Research Scientist at NASA GISS in New York City through a collaboration with Columbia university.  
+ - During my PhD and first postdoc, I have been working on high resolution sea ice modeling for climate simulations. As we increased the resolution of the climate models, we now have the power to resolve more features in the sea ice cover, like leads (fracture lines) and large ice floes. The question is now to know if what we are modeling is correct compared to the observations.
+ - For my current postdoc, I now focus on the coupling betweeen the Parallel Ice Sheet Model (PISM) and the NASA climate model modelE. 
 
 ***
 
