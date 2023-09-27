@@ -1,0 +1,20 @@
+---
+title: "Deformation lines in Arctic sea ice: intersection angles distribution and mechanical properties "
+collection: publications
+permalink: /publication/2023-09-19-IAD
+date: 2023-09-19
+venue: 'The Cryosphere'
+excerpt: ''
+---
+
+### Abstract:
+
+Despite its relevance for the Arctic climate and ecosystem, modeling sea-ice deformation, i.e., the opening, shearing, and ridging of sea ice, along linear kinematic features (LKFs) remains challenging, as the mechanical properties of sea ice are not yet fully understood. The intersection angles between LKFs provide valuable information on the internal mechanical properties, as they are linked to them. Currently, the LKFs emerging from sea-ice rheological models do not reproduce the observed LKF intersection angles, pointing to a gap in the model physics. We aim to obtain an intersection angle distribution (IAD) from observational data to serve as a reference for high-resolution sea-ice models and to infer the mechanical properties of the sea-ice cover. We use the sea-ice vorticity to discriminate between acute and obtuse LKF intersection angles within two sea-ice deformation datasets: the RADARSAT Geophysical Processor System (RGPS) and a new dataset from the Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) drift experiment. Acute angles dominate the IAD, with single peaks at 48º ± 2 and 45º ± 7. The IAD agrees well between both datasets, despite the difference in scale, time period, and geographical location. The divergence and shear rates of the LKFs also have the same distribution. The dilatancy angle (the ratio of shear and divergence) is not correlated with the intersection angle. Using the IAD, we infer two important mechanical properties of the sea ice: we found an internal angle of friction in sea ice of µI= 0.66 ± 0.02 and µI= 0.75 ± 0.05. The shape of the yield curve or the plastic potential derived from the observed IAD resembles a teardrop or a Mohr–Coulomb shape. With these new insights, sea-ice rheologies used in models can be adapted or redesigned to improve the representation of sea-ice deformation.
+
+### Short summary:
+
+When sea ice is put into motion by wind and ocean currents, it deforms following narrow lines. Our two datasets at different locations and resolutions show that the intersection angle between these lines is often acute and rarely obtuse. We use the orientation of narrow lines to gain indications about the mechanical properties of sea ice and to constrain how to design sea-ice mechanical models for high-resolution simulation of the Arctic and improve regional predictions of sea-ice motion.
+
+[Download the paper here](https://doi.org/10.5194/tc-17-4047-2023)
+
+How to cite: Ringeisen, D., Hutter, N., and von Albedyll, L.: Deformation lines in Arctic sea ice: intersection angle distribution and mechanical properties, The Cryosphere, 17, 4047–4061, https://doi.org/10.5194/tc-17-4047-2023, 2023. 
