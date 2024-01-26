@@ -5,11 +5,13 @@ permalink: /talks/
 ---
 
 ## Upcoming talks and posters
-
-- YOPP Final Summit - Oral presentation - 
+- EGU24 - TBD
 
 ## Past talks and posters
 
+- IGS online Seminar - Online presentation - [[access]](https://www.youtube.com/watch?v=q4yls5OjOCM)
+- SIP Follow on: Mathematics of sea ice in the twenty-first century - Oral presentation - [[access]](https://www.newton.ac.uk/seminar/37273/)
+- YOPP Final Summit - Oral presentation - [[access]](https://youtu.be/ei3ObrYnZ7k?si=X2-fWxxUdXw1XQow)
 - 6th ECCOMAS Young Investigators Conference 2021 - Online [[access]](https://epic.awi.de/id/eprint/54346/)
 - vEGU21 - Online - PICO talk and presentaton [[access]](https://doi.org/10.5194/egusphere-egu21-1373)
 - AGU Fall Meeting 2020 - Online - Virtual Poster presentation [[access]](https://doi.org/10.1002/essoar.10506018.1)
