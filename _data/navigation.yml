@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+  
   - title: "Publications"
     url: /publications/
     
@@ -24,8 +27,5 @@ main:
   - title: "The Shape and Sound of Ice"
     url: /sea_ice/
 
-#  - title: "CV"
-#    url: /cv/
-    
 #  - title: "Guide"
 #    url: /markdown/
