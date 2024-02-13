@@ -254,7 +254,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
+  # _CV
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
