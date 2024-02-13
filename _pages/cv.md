@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download my CV in pdf format](/files/CV.pdf)
+[Download my CV in pdf format](/files/CV_202402.pdf)
 
 ## Education
 - 2016 to 2020 - Ph.D. in Physics (Dr. rer. nat.) - University of Bremen - Bremen, Germany - Fracture Angles in Numerical Simulations of Sea Ice with Viscous-Plastic Rheologies - Obtained with Magna Cum Laude 
