@@ -15,7 +15,8 @@ redirect_from:
 - 2011 to 2015 - BSc in Physics - Swiss Federal Institute of Technology (EPFL) - Lausanne, Switzerland 
 
 ## Professional Experiences
-- 2023 to now - Postdoctoral Research Scientist - NASA GISS and Columbia University - New York, NY, USA - Modeling sea level rise using an coupled Climate model and ice sheet model
+- 2024 to now - Research Scientist - Environment and Climate Change Canada - Victoria, BC, Canada - Sea ice modeling for climate models
+- 2023 to 2024 - Postdoctoral Research Scientist - NASA GISS and Columbia University - New York, NY, USA - Modeling sea level rise using an coupled Climate model and ice sheet model
 - 2021 to 2023 - PostDoctoral Fellow - McGill University - Montreal, QC Canada - Modeling sea ice with state-of-the-art granular rheologies. 
 - 2020 to 2021 - ArcTrain Research Fellow - Alfred Wegener Institute & University of Bremen - Bremen, Germany - Implementation of new sea ice rheologies for high-resolution sea ice modeling. 
 - 2016 to 2020 - Ph.D. Student - Alfred Wegener Institute & ArcTrain - Bremerhaven, Germany - Investigation of sea ice rheology to improve the representation of large-scale cracks and fracture in sea ice models
