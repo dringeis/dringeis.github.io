@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Damien Ringeisen"
 title_separator          : "-"
 name                     : &name "Damien Ringeisen"
-description              : &description "PostDoc Research Scientist"
+description              : &description "Research Scientist"
 url                      : https://dringeis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dringeis/dringeis.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "@sea_ice_bear"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Damien Ringeisen"
   avatar           : "DamienRingeisen2.jpg"
-  bio              : "PostDoc Research Scientist"
-  location         : "New York"
-  employer         : "Columbia University"
+  bio              : "Research Scientist"
+  location         : "Victoria, BC, Canada"
+  employer         : "Environment and Climate Change Canada"
   googlescholar    : "https://scholar.google.de/citations?user=QjS3jfYAAAAJ&hl=en"
   email            : "damien.ringeisen@gmail.com"
   uri              :
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sea_ice_bear"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
