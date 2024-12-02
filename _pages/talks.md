@@ -5,10 +5,12 @@ permalink: /talks/
 ---
 
 ## Upcoming talks and posters
-- EGU24 - TBD
+- Maybe EGU25
+- Maybe Ocean Science 2026
 
 ## Past talks and posters
 
+- EGU24 - Podium presentation - [[abstract]](https://meetingorganizer.copernicus.org/EGU24/EGU24-12773.html)
 - IGS online Seminar - Online presentation - [[access]](https://www.youtube.com/watch?v=q4yls5OjOCM)
 - SIP Follow on: Mathematics of sea ice in the twenty-first century - Oral presentation - [[access]](https://www.newton.ac.uk/seminar/37273/)
 - YOPP Final Summit - Oral presentation - [[access]](https://youtu.be/ei3ObrYnZ7k?si=X2-fWxxUdXw1XQow)
