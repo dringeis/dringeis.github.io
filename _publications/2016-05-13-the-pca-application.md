@@ -1,5 +1,5 @@
 ---
-title: "The PCA Lens-Finder: application to CFHTLS"
+title: "[Co-A] The PCA Lens-Finder: application to CFHTLS"
 collection: publications
 permalink: /publication/2016-05-13-the-pca-application
 date: 2016-05-13
