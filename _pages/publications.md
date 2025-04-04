@@ -11,7 +11,7 @@ author_profile: true
 | :-----------------------------------------: | :--------------------------------: | :--------------------------------------: |
 |               4                             |                   4                |  <span style="color:green"> 0 </span>     |
 
-I have a negative paper karma, contact me to review scientific papers (within my expertise).
+I have a neutral paper karma, contact me to review scientific papers (within my expertise).
 
 ----
 
