@@ -1,5 +1,5 @@
 ---
-title: "[preprint] [Co-Author] Consistent ridging and opening coefficients for multi-category sea ice models with modified viscous-plastic rheologies"
+title: "[preprint] [Co-A] Consistent ridging and opening coefficients for multi-category sea ice models with modified viscous-plastic rheologies"
 collection: publications
 permalink: /publication/2026-05-11_RidgeCoeff
 date: 2026-05-11
