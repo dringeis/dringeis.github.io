@@ -21,4 +21,5 @@ permalink: /talks/
 - Mathematics of sea ice phenomena Workshop: Ice fracture and cracks - 4-8 December 2017 - Poster Presentation
 
 ## Outreach
+- Oceanoclasse 2026 - June 5th
 - Oceanoclasse 2022 - [[Project website]](https://oceanoclasse.wixsite.com/semaineocean/édition-2022-3) - [[Video available here]](https://www.youtube.com/watch?v=0lXpwilT-sE)
