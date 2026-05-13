@@ -5,11 +5,10 @@ permalink: /talks/
 ---
 
 ## Upcoming talks and posters
-- Maybe EGU25
-- Maybe Ocean Science 2026
+- Maybe ArcticNet 2026
 
 ## Past talks and posters
-
+- ArcticNet's Annual Scientific Meeting (ASM) 2025 - Oral presentation - [[abstract]](https://event.fourwaves.com/asm2025/abstracts/f8d9483a-65c2-4bb9-b432-0a344c8447cf)
 - EGU24 - Podium presentation - [[abstract]](https://meetingorganizer.copernicus.org/EGU24/EGU24-12773.html)
 - IGS online Seminar - Online presentation - [[access]](https://www.youtube.com/watch?v=q4yls5OjOCM)
 - SIP Follow on: Mathematics of sea ice in the twenty-first century - Oral presentation - [[access]](https://www.newton.ac.uk/seminar/37273/)
